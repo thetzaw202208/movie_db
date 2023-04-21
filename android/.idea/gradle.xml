@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="D:/class_final_project/movie_db-20230421T092341Z-001/movie_db/android" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="D:/class_final_project/movie_db-20230421T092341Z-001/movie_db/android" />
+            <option value="D:/class_final_project/movie_db-20230421T092341Z-001/movie_db/android/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
